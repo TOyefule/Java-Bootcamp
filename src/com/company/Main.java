@@ -55,6 +55,8 @@ public class Main {
 
 
 
+
+
 /*
         Problem #4
         Get 10 number inputs from the user, store them in an array and get the average of those 10 numbers.
