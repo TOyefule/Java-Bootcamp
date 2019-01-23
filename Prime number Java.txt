@@ -1,0 +1,25 @@
+System.out.printf("Input Number...")
+Scanner(Sc = i)
+
+for (int i; i < 100; i++) {
+
+	//x[i] = x[i] + numbers[i]
+}
+
+// P Prime number code
+
+for (int i = 1; i < p; i++) {
+	boolean isPrime = true;
+
+	for(int j = 2; j < i; j++) {
+	  if (int j = 2; j < i; j++) {
+
+		if (i % j==0) {
+			isPrime = false;
+		   break;
+		}		}
+
+}
+
+
+}4:08 PM 1/23/2019
